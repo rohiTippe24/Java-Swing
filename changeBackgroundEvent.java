@@ -1,4 +1,4 @@
-//  Change the background color og frame by handling events
+//  Change the background color of frame by handling events
 import javax.swing.*;
 import java.awt.*;
 
