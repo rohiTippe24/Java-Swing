@@ -52,7 +52,7 @@ class myFrame extends JFrame implements ActionListener{
     
   }
 
-//  actionPerformed(ActionEvent # ) is the abstract method of Actionlistener class
+//  actionPerformed(ActionEvent # ) is the abstract method of Actionlistener interface
 public  void actionPerformed (ActionEvent a) {
 
 //  a.getSource()  :~  finds the source on which this method was applied
